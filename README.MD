@@ -14,6 +14,6 @@ As part of TheDoggyBrad's original transparency intiative, we want you to know t
 ### Malfunction 1
 GitHub took down this account in the middle of August 2023. Therefore, it stopped functioning but was temporarily taken over by @actions-user but GitHub reinstated the account at the last week of August 2023 and therefore the bot returned to normal.
 ### Malfunction 2
-Through out the years 2023 to 2024, this bot was heavily reliant on the services of x10 Hosting which sometimes go down and it also took down the bot. We have set 000WebHost before as a backup but it was reliable. This issue was resolved in 2024 when we finally used Vercel's free infrastructure to serve as the trigger for this bot.
+Through out the years 2023 to 2024, this bot was heavily reliant on the services of x10 Hosting which sometimes go down and it also took down the bot. We have set 000WebHost before as a backup but it was not reliable. This issue was resolved in 2024 when we finally used Vercel's free infrastructure to serve as the trigger for this bot.
 ### Malfunction 3
 The bot's mail was full so the mailserver stopped responding to Github's email therefore unverifying the already verified account and this stopped the bot from functioning properly. This incident happened on the last weeks of January 2025 and was resolved on February 1 by deleting the emails and changing email notification options on GitHub to prevent action failures from clogging up the mail again.
