@@ -1,4 +1,4 @@
-<img src="IMG_20240609_200620.jpg" width="128" height="128">
+<img src="New Logo.png" width="128" height="128">
 
 # EasyList Mirror Syncing Bot
 This is the EasyList Mirror Syncing Bot, an account operated by automated scripts. This account is used to automate the syncing process on the EasyList Mirror (Unofficial) located at https://github.com/thedoggybrad/easylist-mirror/.
